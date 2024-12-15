@@ -1,7 +1,7 @@
 // import Course from "./components/Course"
 import Signup from "./components/Signup"
 import Courses from "./courses/Courses"
-import Home from "./home/home"
+import Home from "./home/Home"
 import { Navigate, Route, Routes } from "react-router-dom"
 import { Toaster } from "react-hot-toast"
 import { useAuth } from "./context/AuthProvider"
