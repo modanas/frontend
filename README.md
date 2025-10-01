@@ -17,9 +17,9 @@ A responsive and user-friendly **frontend for a Food Delivery platform**, built 
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, Vite  
-- **Styling:** CSS / Tailwind CSS / SCSS (optional)  
-- **State Management:** Context API / Redux (if used)  
+- **Frontend:** Vite  
+- **Styling:** CSS  
+- **State Management:** Context API  
 - **Routing:** React Router DOM  
 - **Linting & Formatting:** ESLint, Prettier  
 
